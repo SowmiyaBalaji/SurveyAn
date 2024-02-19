@@ -11,6 +11,7 @@ pdf2image
 joblib
 itertools
 click==6.7
+requests
 os-sys==2.1.4
 Flask==1.0.2
 Flask-WTF==0.14.2
@@ -22,4 +23,4 @@ Werkzeug==0.14.1
 WTForms==2.2.1
 nltk>=3.4.5
 scikit-learn>=0.18
-requests
+
